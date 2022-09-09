@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ChibuTheDev
-- 👀 I’m interested in Js
-- I love Novels and Anime
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @chibuodes on twitter
+- 👋 Hi, I’m Chibu
+- 👀 Currently Learning Javascript
+- 💞️ I’m looking to collaborate on improve my skills by contributing to OpenSource and Building up my Portfolio
+- 📫 You can reach me @chibuodes on twitter
 
 <!---
 ChibuTheDev/ChibuTheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
