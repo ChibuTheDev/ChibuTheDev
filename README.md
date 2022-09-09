@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chibu
 - 👀 Currently Learning Javascript
-- 💞️ I’m looking to collaborate on improve my skills by contributing to OpenSource and Building up my Portfolio
+- 💞️ I’m looking to level up my skills by contributing to OpenSource and Building up Projects
 - 📫 You can reach me @chibuodes on twitter
 
 <!---
