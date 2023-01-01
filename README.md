@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Chibueze</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Web developer from Nigeria</h3>
 
 <img align="right" alt="chibucodes" width="400" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"></img>
 
