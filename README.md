@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi I'm Chibu</h1>
-<h3 align="center">Webdev and lover of all things anime</h3>
+<h3 align="center">Web Developer</h3>
 
 <img align="right" alt="chibucodes" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **React
 
 
-- 📫 How to reach me **chibueze.k.muoneke@gmail.com**
+- You can reach me at **chibueze.k.muoneke@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
