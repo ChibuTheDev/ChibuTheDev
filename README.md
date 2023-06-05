@@ -2,8 +2,8 @@
 [![MasterHead](https://philna.sh/assets/posts/react-738ca5dd60ecf11214419e9d6c847d1e2e4ad88c3f147e12d8adfd25b76e6e66.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Chibueze</h1>
-<h3 align="center">A Web developer from Nigeria</h3>
+<h1 align="center">Hi I'm Chibu</h1>
+<h3 align="center">Webdev and lover of all things anime</h3>
 
 <img align="right" alt="chibucodes" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
@@ -11,13 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/chibucodes" target="blank"><img src="https://img.shields.io/twitter/follow/chibucodes?logo=twitter&style=for-the-badge" alt="chibucodes" /></a> </p>
 
-- 🌱 I’m currently learning **React, MERN stack**
+- 🌱 I’m currently learning **React
 
-- 💬 Ask me about **Web**
 
 - 📫 How to reach me **chibueze.k.muoneke@gmail.com**
 
-- ⚡ Fun fact **I love reading and I love me some anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
