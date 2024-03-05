@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi I'm Chibu</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="chibucodes" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
