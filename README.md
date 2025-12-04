@@ -3,15 +3,12 @@
 
 
 <h1 align="center">Hi I'm Chibu</h1>
-<h3 align="center">Software Engineer</h3>
-
-<img align="right" alt="chibucodes" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
 <p align="left"> <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="chibuthedev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chibucodes" target="blank"><img src="https://img.shields.io/twitter/follow/chibucodes?logo=twitter&style=for-the-badge" alt="chibucodes" /></a> </p>
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently knee deep in AI 
 
 
 - You can reach me at **chibueze.k.muoneke@gmail.com**
